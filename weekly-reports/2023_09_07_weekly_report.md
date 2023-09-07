@@ -20,6 +20,9 @@ Otherwise, I have scheduled an appointment to use the laser cutters and will als
 
 Rhino could be very helpful for some of my other class projects. I could see myself utilizing the 2D laser cut patterns for my Studio Foundations potted plant design. It might also be helpful for printing out robotic parts, although my robotics knowledge is severely lacking. Right now I just need to come up with some more modifications to personalize the phone stand. I am a bit nervous to mess it all up, but I've re-started the project files so many times now that I'm kind of past the initial fear.
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230907_103552.jpg)
+(Image description: Some designs for my Studio Foundations projects that might be interesting to print or laser cut patterns into. I wonder how thin vs. thick the materials should be if I like the end result to be cylindrical (for laser cutting). Maybe I can score the wood or other material after?)
+
 #### TLDR;
 
 Not a ton of updates, mostly just increasing my familiarity with the program and watching a lot of tutorials. More exciting pictures incoming next week as I modify and print my design!
