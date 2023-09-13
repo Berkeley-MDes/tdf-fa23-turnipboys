@@ -4,9 +4,11 @@
 
 ### Reflection
 
-#### Lost in the Sauce...
+#### Class Recap
 
-I already typed out this entire report once and I forgot to commit my changes so I am not pleased with that...such is life...
+Thank you to TJ and Jeff for helping to explain Grasshopper and its visual scripting system a little better to me. I think that I'm so used to it being one or the other - strictly 3D modeling with meshes like Maya & Blender, or strictly programming C#/Python/whatever in an IDE that I'm having a hard time navigating Grasshopper. However, the explanation of panels, arrays, lists, and other components helped a lot. I had to restart my project multiple times due to Rhino/Grasshopper issues (such is life) but I am glad that I experienced it this early on so I know how to handle it at this point.
+
+#### Lost in the Sauce...
 
 Most of this week was spent procrastinating and dreading the final deliverable because I honestly wasn't sure about what I wanted to do. I wanted to customize my phone stand to be very personal and fun, but experimenting with Rhino and Grasshopper was very difficult for me since I am still very new to the software.
 
