@@ -99,3 +99,17 @@ I made some small changes to TJ's simple phone stand file. First, I put in my ph
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/simple%20stand%20gh.png)
 
 This is my Grasshopper file for this stand. You can see where I have some disabled components from testing out different cylinders and shapes to create a space for the charging port.
+
+#### A Little Textural Fun
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/bubblewrap%20stand.PNG)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/cloud%20stand.PNG)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/fire%20stand.PNG)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/shadow%20stand.PNG)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/strawberry%20stand.PNG)
+
+Playing around with some weird textures. 
