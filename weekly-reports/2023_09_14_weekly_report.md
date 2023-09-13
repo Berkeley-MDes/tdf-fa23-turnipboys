@@ -42,4 +42,4 @@ My phone would be completely vertical, which is an unusual position for a phone 
 
 [Image description: My concept design of the phone stand.]
 
-I initially planned for the phone stand to be quite wide and thin, with enough support to hold the phone up vertical. I also considered leaving room
+I initially planned for the phone stand to be quite wide and thin, with enough support to hold the phone up vertical. I also considered leaving room for a charger wire on the bottom, but that would make the stand very tall and I didn't really want that, so I later scrapped it. I wanted the phone to seem tall and foreboding rather than it looking like a bunch of tall rocks stacked on top of each other.
