@@ -43,3 +43,16 @@ My phone would be completely vertical, which is an unusual position for a phone 
 [Image description: My concept design of the phone stand.]
 
 I initially planned for the phone stand to be quite wide and thin, with enough support to hold the phone up vertical. I also considered leaving room for a charger wire on the bottom, but that would make the stand very tall and I didn't really want that, so I later scrapped it. I wanted the phone to seem tall and foreboding rather than it looking like a bunch of tall rocks stacked on top of each other.
+
+#### Process
+
+I was honestly having so much trouble with this. I thought that I had a decent grasp of Grasshopper basics but nothing I did really seemed to work. My objects wouldn't cap properly (or so it seemed) and I was running on very little sleep, so nothing made sense to me. I fell rather ill this week but it was already so close to the submission period that I figured I just had to push through for the sake of finishing something.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/first%20attempt%20gh.PNG)
+
+My first attempt at constructing just some basic cylinders stacked on top of each other as a basic stand bottom.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/why.PNG)
+
+But when I uploaded my baked & exported model to Sketchfab, it was just the cylinders???? They were not solids???? Something went wrong here in my exporting process...
+
