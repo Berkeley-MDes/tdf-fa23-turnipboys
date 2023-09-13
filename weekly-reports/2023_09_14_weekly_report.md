@@ -75,10 +75,15 @@ Nearing the wire, it came down to a combination of factors, but mostly a really 
 Here is my collection of resources because I REALLY want to continue finishing this. Maybe in the next couple of weeks I can just turn it into a personal project. I don't even like *2001* that much. I just really want to complete this because it was an interesting challenge and I know that once my brain is all healed & rested I can definitely do it!
 
 [TJ's video on the simplified phone stand](https://www.youtube.com/watch?v=GHtWNAPiAoE)
+
 [General Grasshopper tutorial that is EXTREMELY good and very clear](https://www.youtube.com/watch?v=zDDVeDldvaI)
+
 [Tutorial on how to shape rocks in Rhino](https://www.youtube.com/watch?v=q92OS1llRt0)
+
 [Landscape contour using Noise4D tutorial (for the sandy/rock texture)](https://www.youtube.com/watch?v=sR4jOSznkYo)
+
 [Texture displacement in Grasshopper](https://www.youtube.com/watch?v=f74fiNWkxVw)
+
 [Procedural textures, noises, rocks](https://www.grasshopper3d.com/forum/topics/rocks)
 
 #### So...What Now?
