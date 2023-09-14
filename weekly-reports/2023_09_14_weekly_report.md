@@ -153,6 +153,8 @@ Materials:
 - Adobe Illustrator file
 - Jacobs Hall laser cutter
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Project%201_Laser%20cut%20gif.gif)
+
 On my first cut, I accidentally switched the base and back plates, so what was supposed to be the bunny's head ended up being the bunny's feet & vice-versa. I also forgot to adjust for the size of the plywood I was using, so none of the pieces fit into each other (thank you to Yunting for advising me on this!). 
 
 After some semi-quick edits, I fixed the layout and did a second cut, which was far more successful! I then did one more just in case. I am so pleased with the results! It's super simple but also very recognizable and I received a lot of positive feedback from other people in the Makerspace.
