@@ -137,7 +137,7 @@ I customized the AI file to make it a little cuter - I went through a lot of ide
 
 Here is the original phone stand after baking it in Grasshopper and exporting in Rhino:
 
-![https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Phone_stand_layout.PNG]()
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Phone_stand_layout.PNG)
 
 And here is my version (bunny style):
 
