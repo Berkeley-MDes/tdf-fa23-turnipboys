@@ -177,4 +177,12 @@ First, I washed all of my pieces. They were still covered in ash and lasercut st
 
 [The pieces after being washed.]
 
-I was a little bit worried about the paint layer being too thick because then the pieces wouldn't be able to fit together. 
+I was a little bit worried about the paint layer being too thick because then the pieces wouldn't be able to fit together, so I did thin layers of paint and then a thin layer of modge podge to give it a shiny look.
+
+Here are the completed phone stands!
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230914_144938.jpg)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230914_144946.jpg)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230914_145023.jpg)
