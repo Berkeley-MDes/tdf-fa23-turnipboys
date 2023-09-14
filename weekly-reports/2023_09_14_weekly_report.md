@@ -24,9 +24,12 @@ I prioritized just learning as much as I could and trying to showcase what knowl
 
 My goals:
 
+- Explore as much of Rhino, Grasshopper, and Illustrator as I can.
 - Create a custom phone stand using Rhino and Grasshopper.
-- 3D print the phone stand (my first time using a 3D printer).
+- 3D print the phone stand (my first time using a 3D printer) or laser cut the stand (my first time laser cutting on my own).
 - Optimize the phone stand for vertical orientation; useful for video calls, filming, and mindless Reddit scrolling (lol).
+
+### The First Project - 3D modeling, Rhino, and Grasshopper
 
 #### Inspiration
 
@@ -48,7 +51,7 @@ I initially planned for the phone stand to be quite wide and thin, with enough s
 
 #### Process
 
-I was honestly having so much trouble with this. I thought that I had a decent grasp of Grasshopper basics but nothing I did really seemed to work. My objects wouldn't cap properly (or so it seemed) and I was running on very little sleep, so nothing made sense to me. I fell rather ill this week but it was already so close to the submission period that I figured I just had to push through for the sake of finishing something.
+I was honestly having so much trouble with this. I thought that I had a decent grasp of Grasshopper basics but nothing I did really seemed to work. My objects wouldn't cap properly (or so it seemed) and I was running on very little sleep, so nothing made sense to me. I also had fallen ill this week, but I wanted to push through and see how much I can learn about computational modeling.
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/first%20attempt%20gh.PNG)
 
@@ -66,11 +69,13 @@ I made a little bit of progress with my cylinders and managed to fix the cap iss
 
 [Image description: My Grasshopper program for reference.]
 
+SOLID DIFFERENCE ISSUE: Still not sure how to do it in the way TJ did it, but I believe by adjusting the length/height of my rectange I could get it almost flush with the other cylinders. So that fixes it, at least partially.
+
 #### Issues
 
 Nearing the wire, it came down to a combination of factors, but mostly a really big one:
 
-- I became really, really sick. It began at the start of the week and it might have just been stress or maybe I caught something, but I was super exhausted all of the time and really quite ill. I knew that this would just have to be my "Level 1" project due to the circumstances, and I'm okay with that (but still disappointed).
+- I became really, really sick. It began at the start of the week and it might have just been stress or maybe I caught something, but I was super exhausted all of the time and really quite ill. I wasn't really sure what "level" this project would be for me since I came in going "Rhino? Grasshopper? So many animals..." and now I have learned a ton, but I was a little too caught worrying about the details of what is "exceeding" or "meeting" expectations. I imagine that this is probably a level 1 Triceratops project, but I really couldn't be sure.
 
 #### Putting a Pin in It
 
@@ -88,7 +93,7 @@ Here is my collection of resources because I REALLY want to continue finishing t
 
 [Procedural textures, noises, rocks](https://www.grasshopper3d.com/forum/topics/rocks)
 
-#### So...What Now?
+### Project 2: So...What Now? (Continued 3D modeling)
 
 I made some small changes to TJ's simple phone stand file. First, I put in my phone's dimensions and specified that I wanted a portrait orientation. Then, I adjusted the spheres until I found a nice spherical shape. I made sure to leave an opening at the bottom of the sphere so that I could pull my charger cable through. I also created an additional cylinder (or more accurately, subtracted a cylinder) on the back of the stand so that I can store my Surface Pro stylus pen.
 
@@ -113,3 +118,7 @@ This is my Grasshopper file for this stand. You can see where I have some disabl
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/strawberry%20stand.PNG)
 
 Playing around with some weird textures. 
+
+#### Printing
+
+Finding time to print was very challenging, despite my attempts to print for several days. My project is quite large and would have taken at least 13 hours according to the Prusa printer estimates. I also have to be honest that while I would really like to 3D print something, I found the phone stand that I made rather ugly (LOL) and would rather save the material for something else. I still hadn't laser cut anything on my own (I laser cut once with a friend for another class) so I thought that that might be an exciting activity to round out my experimentation and learning for the week.
