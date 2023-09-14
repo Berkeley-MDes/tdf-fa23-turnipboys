@@ -147,4 +147,12 @@ And here is my version (bunny style):
 
 I was nervous about completing my first laser cut, but I had already observed a lot of my friends cutting and received some great advice from the instructors and Makerspace staff, so I felt prepared. And it ended up being a lot of fun!
 
+Materials:
+
+- 1/4" plywood
+- Adobe Illustrator file
+- Jacobs Hall laser cutter
+
+On my first cut, I accidentally switched the base and back plates, so what was supposed to be the bunny's head ended up being the bunny's feet & vice-versa. I also forgot to adjust for the size of the plywood I was using, so none of the pieces fit into each other. After some semi-quick edits, I fixed the layout and did a second cut, which was far more successful! I then did one more just in case. I am so pleased with the results! It's super simple but also very recognizable and I received a lot of positive feedback from other people in the Makerspace.
+
 
