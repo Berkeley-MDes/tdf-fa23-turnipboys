@@ -153,6 +153,26 @@ Materials:
 - Adobe Illustrator file
 - Jacobs Hall laser cutter
 
-On my first cut, I accidentally switched the base and back plates, so what was supposed to be the bunny's head ended up being the bunny's feet & vice-versa. I also forgot to adjust for the size of the plywood I was using, so none of the pieces fit into each other. After some semi-quick edits, I fixed the layout and did a second cut, which was far more successful! I then did one more just in case. I am so pleased with the results! It's super simple but also very recognizable and I received a lot of positive feedback from other people in the Makerspace.
+On my first cut, I accidentally switched the base and back plates, so what was supposed to be the bunny's head ended up being the bunny's feet & vice-versa. I also forgot to adjust for the size of the plywood I was using, so none of the pieces fit into each other (thank you to Yunting for advising me on this!). 
 
+After some semi-quick edits, I fixed the layout and did a second cut, which was far more successful! I then did one more just in case. I am so pleased with the results! It's super simple but also very recognizable and I received a lot of positive feedback from other people in the Makerspace.
 
+![What the pieces look like immediately after the laser cut is completed](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Project%201_lasercut%20img%201.jpg)
+
+[Image description: What the pieces look like immediately after the laser cut is completed.]
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Project%201_lasercut%20img%202.jpg)
+
+The two final bunny phone stands that I cut out! The one on the right is the second attempt and the one on the left is the third attempt. I'm pretty pleased with the results!
+
+#### Polish
+
+The bunny phone stands are already super cute in their simple plywood form, but I wanted to add a pop of color (I was mostly just tired of looking at plain wood, white models, etc.). I also haven't painted anything in a while, so I thought that it would be a nice opportunity to crack open some of my tubes and brushes.
+
+First, I washed all of my pieces. They were still covered in ash and lasercut stains from the cutting process which was getting all over my hands and clothes. A lot of articles online recommended using white vinegar to gently dissolve and clean the ash off, but I didn't have any so I just used gentle soap, water, and a soft cloth face towel.
+
+![The pieces after being washed.](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Project%201_lasercut%20after%20cleaning.jpg)
+
+[The pieces after being washed.]
+
+I was a little bit worried about the paint layer being too thick because then the pieces wouldn't be able to fit together. 
