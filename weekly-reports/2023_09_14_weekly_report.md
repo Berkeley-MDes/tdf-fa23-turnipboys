@@ -119,6 +119,32 @@ This is my Grasshopper file for this stand. You can see where I have some disabl
 
 Playing around with some weird textures. 
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/2023-09-14%2008-35-56_1.gif)
+
+[Link to Sketchfab](https://skfb.ly/oLpX9) where I uploaded my 3D model.
+
 #### Printing
 
 Finding time to print was very challenging, despite my attempts to print for several days. My project is quite large and would have taken at least 13 hours according to the Prusa printer estimates. I also have to be honest that while I would really like to 3D print something, I found the phone stand that I made rather ugly (LOL) and would rather save the material for something else. I still hadn't laser cut anything on my own (I laser cut once with a friend for another class) so I thought that that might be an exciting activity to round out my experimentation and learning for the week.
+
+### Project 3: Laser Cut
+
+#### Design
+
+I wanted to laser cut something. I already had my customized phone stand from a few weeks ago that I had baked and exported into an AI file, but I never ended up cutting it earlier. I decided that it was finally time.
+
+I customized the AI file to make it a little cuter - I went through a lot of ideas, but thought that a little bunny stand would be fun. I've used Adobe Illustrator in the past, but that was at least 6 years ago. After my initial confusion at the updated interface, I found myself back in the swing of things.
+
+Here is the original phone stand after baking it in Grasshopper and exporting in Rhino:
+
+![https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Phone_stand_layout.PNG]()
+
+And here is my version (bunny style):
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Project%201_laser%20cut%20phone%20stand%20v2%20AI%20file.PNG)
+
+#### Laser Cutting
+
+I was nervous about completing my first laser cut, but I had already observed a lot of my friends cutting and received some great advice from the instructors and Makerspace staff, so I felt prepared. And it ended up being a lot of fun!
+
+
