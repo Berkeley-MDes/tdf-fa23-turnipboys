@@ -162,4 +162,16 @@ Here are the LEDs that I found in the Edge AI kit (and the photo transistor, whi
 
 I wasn't sure what the tutorial meant at the "Setup" portion when it says that it's "good practice to connect the red (+) bus bar on the top to 3V3 and the blue (-) bus bar on the bottom to ground" so I decided to stop there. I assumed that it had something to do voltage and power and I did not want to hurt myself or anything like that, so I paused (I have indeed injured myself soldering and doing other electrical things in the past...).
 
+I read ahead and saw that we can use a solderless breadboard to connect the LEDs to the P2, but I figured that this was a good stopping point since I was ready for bed. :)
+
 ### Speculations
+
+I am not super familiar with a lot of electronics, but this already has my mind spinning about alt controllers for games! It's one of my favorite "subgenres" of game design and I wonder if I can think of a fun project that uses sensors to build a really fun and simple game. 
+
+For reference, here is the [AltCtrl page](https://gdconf.com/alt-ctrl-gdc/archive) of the 2020 Game Developers Conference.
+
+[*Our Sutured City*](https://youtu.be/Ra3yWLsSGGA?si=P_1fJqXD7ecsWTEx) is an interactive tapestry using various touch sensors.
+
+[*Plug Plug*](https://www.youtube.com/watch?v=EXpe0No9gjU) is also really cute. You magnetically stick boxes together to add elements to your little robot creature and then battle your friends!
+
+I would definitely like to play around more with maybe a motion, touch, or audio sensor and see if I can make a simple game based on that one mechanic.
