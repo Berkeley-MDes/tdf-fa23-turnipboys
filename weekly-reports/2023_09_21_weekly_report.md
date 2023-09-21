@@ -32,8 +32,10 @@ Oh...the classic. Every time I learn a new language or IDE I always do the "Hell
 
 Here it is running the Hello World print loop:
 
+[](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/helloWorld.PNG)
+
 And here it is introducing itself as Baby Worm!:
 
-
+[](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/babyWorm.PNG)
 
 ### Speculations
