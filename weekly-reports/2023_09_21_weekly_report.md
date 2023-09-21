@@ -38,6 +38,10 @@ Then baby_worm was finally connected to the Berkeley-IOT network! Yayyyyyy!!!!!!
 
 Oh...the classic. Every time I learn a new language or IDE I always do the "Hello World" script! I've never used Particle Web IDE but I've used in-browser IDEs that are very similar. I learned that the Particle Web IDE programming language is Arduino C. I know C# and Python, so I thought that it looked somewhat familiar.
 
+The LED is the little white strip next to the D7 pin:
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_202937.jpg)
+
 Here it is running the Hello World print loop:
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/helloWorld.PNG)
@@ -144,5 +148,9 @@ void loop()
 #### Blink an External LED
 
 Here are the LEDs that I found in the Edge AI kit (and the photo transistor, which is the clear piece with a flat top):
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_204541.jpg)
+
+I wasn't sure what the tutorial meant at the "Setup" portion when it says that it's "good practice to connect the red (+) bus bar on the top to 3V3 and the blue (-) bus bar on the bottom to ground" so I decided to stop there. I assumed that it had something to do voltage and power and I did not want to hurt myself or anything like that, so I paused (I have indeed injured myself soldering and doing other electrical things in the past...).
 
 ### Speculations
