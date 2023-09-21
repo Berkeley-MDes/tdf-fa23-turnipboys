@@ -133,5 +133,8 @@ void loop()
 {
 }
 ```
+#### Blink an External LED
+
+Here are the LEDs that I found in the Edge AI kit (and the photo transistor, which is the clear piece with a flat top):
 
 ### Speculations
