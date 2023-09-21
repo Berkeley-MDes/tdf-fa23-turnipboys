@@ -93,6 +93,15 @@ void loop()
 	// And repeat!
 }
 ```
+To control the LED blink over the Internet, I used the Particle Console to control the functions.
+
+Here it is when I switch the LED off:
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_204011(1).jpg)
+
+Here it is when I switch the LED back on:
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_204028.jpg)
 
 Controlling LED blink over Internet code:
 ```
