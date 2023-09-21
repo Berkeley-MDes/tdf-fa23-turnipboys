@@ -20,6 +20,20 @@ On the "Organize your Particle device" page, it told me to select an existing or
 
 I then connected my baby_worm to the Wi-Fi. I had a lot of trouble with this step because my only available options were berkeley-visitor and berkeley-iot. But neither of these would work (both required a password, but iot Wi-Fi wouldn't work without the Mac Address and the visitor Wi-Fi didn't have a password that I could put in). I decided to set up my hotspot and by a miracle it actually worked (I've had a lot of hotspot issues). So yayyyy.
 
-After that I followed the directions for finding the Mac Address of my P2. I will not reveal it... >:)
+After that I followed the directions for finding the Mac Address of my P2. I will not reveal it...but it is a satisfying combination of numbers. >:)
+
+I created a new device for my baby_worm under the Berkeley-IOT Wi-Fi using the Mac Address.
+
+Then baby_worm was finally connected to the Berkeley-IOT network! Yayyyyyy!!!!!!!
+
+#### Hello World
+
+Oh...the classic. Every time I learn a new language or IDE I always do the "Hello World" script! I've never used Particle Web IDE but I've used in-browser IDEs that are very similar. I learned that the Particle Web IDE programming language is Arduino C. I know C# and Python, so I thought that it looked somewhat familiar.
+
+Here it is running the Hello World print loop:
+
+And here it is introducing itself as Baby Worm!:
+
+
 
 ### Speculations
