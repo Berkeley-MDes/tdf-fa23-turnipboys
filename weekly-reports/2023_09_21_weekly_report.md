@@ -40,6 +40,7 @@ And here it is introducing itself as Baby Worm!:
 
 #### Blinking LED
 
+Blinking blue LED code:
 ```
 // We define MY_LED to be the LED that we want to blink.
 //
@@ -79,6 +80,11 @@ void loop()
 
 	// And repeat!
 }
+```
+
+Controlling LED blink over Internet code:
+```
+
 ```
 
 ### Speculations
