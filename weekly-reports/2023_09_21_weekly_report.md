@@ -16,6 +16,14 @@ I set up my Particle account. Note: I must use the Google Chrome browser to run 
 
 I connected my P2 device to my computer. It then installed Device OS onto my P2. In order to do this, it put the P2 into Device Firmware Upgrade (DFU) mode. This made the P2 start rapidly blinking with a green light (the blue light remained on). As it was updating, the light began blinking at different rates in different colors.
 
+The P2 when I connected it to my laptop:
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_194419.jpg)
+
+The P2 as it was updating:
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/20230920_194639.jpg)
+
 On the "Organize your Particle device" page, it told me to select an existing organization and product for my device. My only organization available was my "Personal Sandbox," so I selected that. I didn't have any products available, so I created a new one and named it Baby Worm Photon 2 / P2s (this is because my laptop is called "Worm"). The name is baby_worm :)
 
 I then connected my baby_worm to the Wi-Fi. I had a lot of trouble with this step because my only available options were berkeley-visitor and berkeley-iot. But neither of these would work (both required a password, but iot Wi-Fi wouldn't work without the Mac Address and the visitor Wi-Fi didn't have a password that I could put in). I decided to set up my hotspot and by a miracle it actually worked (I've had a lot of hotspot issues). So yayyyy.
