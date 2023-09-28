@@ -42,5 +42,14 @@ Here are some photos of his projects. The first few are of the "FingerPhone," wh
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/FingerPhone%206.jpg)
 
+#### Brainstorming Group Projects
 
+Also on Monday, we did some group brainstorming for our next project. We were split up randomly into groups with various categories. I was placed in the "home" category, and we came up with some interesting ideas about different devices that could potentially improve our and others' home lives. 
 
+I was impressed at the variety of ideas. I selected my top 3 (in no particular order, because I can't remember lol): cleaning surfaces robot, long distance chess game, and brain exercise game for Alzeheimer's patients.
+
+### Speculations
+
+There are a lot of different ideas for group projects! I'm super curious to find out who I'll get paired with. I lean towards the more "entertainment" oriented projects, but I would also like to create something that I personally would actually use. I think that MDes is a good opportunity to make stuff that I actually want to personally create for fun since I know my opportunities will be limited once I enter the work force. I am very interested in immersive experiences and installations, so I really hope that I get the opportunity with this project and in my final project to play around more with games and storytelling. 
+
+I already linked to some interesting alt controller things last week and Freed's talk just made me more excited about working with different materials. I really want to work with more tactile-focused experiential objects, so I'm curious to see what group I end up in.
