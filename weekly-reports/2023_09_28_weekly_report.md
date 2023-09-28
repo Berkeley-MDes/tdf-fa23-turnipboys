@@ -24,3 +24,23 @@ Here are some images and GIFs of me completing the rest of the tutorials. I also
 
 This is the Photon2 running the "Blink LED" tutorial. I then modified the script to make the external and internal LEDs blink at the same time.
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/9_21_23%20in%20class%20Photon2%20same%20blink.gif)
+
+#### Guest Speaker: Adrien Freed
+
+On Monday the 25th, we had a guest speaker named Adrien Freed. He discussed transdisciplinary design and systems design. He explained systems design as essentially being interface design - I find this very interesting because my understanding of an "interface" was mostly through a video game lens, so what he referred to as "interfaces" I thought of as "verbs" that connect different "objects." Maybe from my object-oriented programming experience.
+
+Freed also discussed some of his past work with textiles and electronics, which I thought was really cool. The contrast of a soft textile against the "harshness" of wires and electricity is very interesting. I'd like to explore more of that and thought that his 100+ year old silver thread was epic.
+
+Here are some photos of his projects. The first few are of the "FingerPhone," which is some sort of musical instrument.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/FingerPhone%201.jpg)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/FingerPhone%204.jpg)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/FingerPhone%205.jpg)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/FingerPhone%206.jpg)
+
+
+
