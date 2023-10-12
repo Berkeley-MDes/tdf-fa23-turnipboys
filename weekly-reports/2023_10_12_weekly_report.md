@@ -8,6 +8,8 @@ We did a lot this week! After receiving some feedback from Shm on our initial "C
 
 Our re-designed concept: Ghosty, the Hot/Cold game! Ghosty is a little ghost that is scared of the light. When the lights are on, it'll run away until it finds a dark place to hide. Using your "ghost catcher" tool, you play a game of Hot/Cold to see how close you are to Ghosty and catch it!
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/DESINV%20202%20-%20Ghosty%20storyboard%201.png)
+
 We created a [Figma](https://www.figma.com/file/iTPrt7UdsSuKgONyTlIzIG/Wipey%3A-TDF-Project-2?type=design&node-id=7%3A2&mode=design&t=EmpagBOGm7JHa7A0-1) to keep track of our design process. 
 
 Christine was out of town so most of the initial programming and design was completed by Ankur and I, but we made sure to keep Christine up to speed. She had some valuable input and designs later in the week once she returned!
