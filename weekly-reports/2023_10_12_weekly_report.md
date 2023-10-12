@@ -28,6 +28,16 @@ First, because we had a different Servo motor, we connected our Servo motor to t
 
 After that, we just adjusted the variable to fit our needs for continuous motion.
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/continuous%20motion.gif)
 
+Finally, we needed to put it all together. We want the ghost to "run away and hide" in the light, so we combined Sudhu's LED light input code with our Servo motion code. Now, when the sensor picked up a certain level of light, the motor would start moving. Once it reached a certain level of darkness, the motor would stop.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/light%20input%20motion_2.gif)
+
+Ankur experimented a bit more with the ultrasonic distance sensor, but we agreed that it likely wasn't the best choice to try and measure distance between the ghost and the ghost hunter because the ultrasonic sensor was just measuring the distance of any object in front of it.
+
+Christine began speculating about how to actually fabricate the ghost robot to get the wheels moving.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/10_12_23%20christine%20design.jpg)
 
 ### Speculations
