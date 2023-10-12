@@ -42,4 +42,14 @@ Christine began speculating about how to actually fabricate the ghost robot to g
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/10_12_23%20christine%20design.jpg)
 
+Unrelated to all of that, my dad and sister came to visit me and went to SF to see the sea lions. :) So happy :)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/10_12_23%20pier%2039.jpg)
+
 ### Speculations
+
+This type of technology already exists, but I think that it might interesting to see it applied more to children's games and safety. For example, playing Hot/Cold with your child at the playground and having a little tracker on them just in case. I was a child put on a leash, so anything to escape the Elmo leash...lol.
+
+I also think that this could be very cool when combined with other AR elements. It could make Pokemon Go feel a lot more realistic, for example, if you had a Pokedex (your phone?) that led you on more of a chase than the current app does.
+
+Our current biggest challenge seems to be the actual robotics manufacturing of it, since I know very little about constructing mobile robots.
