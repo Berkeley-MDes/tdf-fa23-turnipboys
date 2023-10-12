@@ -18,6 +18,8 @@ When you tilt the accelerometer (which is attached to the breadboard), it change
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/10_12_23%201.jpg)
 
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/accelerometer_1.gif)
+
 This was great because it meant we could figure out how to modify the code to get continuous motion from light input rather than the accelerometer. However, after attempting to modify the accelerometer code, we ran into some roadblocks. We did some additional external research to learn more about the Servo and figure out how we could just get continuous motor motion.
 
 In order to get continous motion, we found [this tutorial](https://docs.idew.org/internet-of-things-project/references-for-wiring-and-coding/continuous-rotation-servo-motor) and followed it, with some small changes.
