@@ -53,3 +53,5 @@ Weirdly, after I uploaded information about my favorite movies, the AI pretty mu
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-24%20151324.png)
 
+I saved my LinkedIn information to a PDF and uploaded it to ZeroWidth, but it did not do a good job parsing through the information. I had to manually fix a lot of the formatting.
+
