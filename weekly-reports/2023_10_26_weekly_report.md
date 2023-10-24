@@ -44,3 +44,12 @@ In the meantime, I decided to play around with the AI and see what it knew. I ga
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-23%20180657.png)
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-23%20180756.png)
+
+I then wanted to see if I could get the AI to speak similarly to how I do. This was an interesting challenge because I have very different speech patterns depending on who I'm talking to. I'm much more formal in these reports, essays, and other online content, but in actual direct messaging and chats I'm very casual and tend to have worse punctuation and grammar.
+
+I requested my data from Discord to see if I could acquire all of my chats and upload them to the knowledge set, but Discord said that it could take up to a month to receive my data back and I only had a week to create the AI. I decided to expedite the process a little bit by uploading a bunch of essays and texts I had written to the knowledge set.
+
+Weirdly, after I uploaded information about my favorite movies, the AI pretty much only wanted to talk about movies. It said that it didn't have any information on my latest projects despite also having knowledge from my weekly reports.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-24%20151324.png)
+
