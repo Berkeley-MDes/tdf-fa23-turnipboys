@@ -61,3 +61,10 @@ I thought that it would be more interesting to change the speech pattern of my a
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-25%20090349.png)
 
+At one point the AI began conjecturing information about me and explicitly told me that it was speaking in hypotheticals once I asked where it was getting this information from. I don't really like that it's making up information about me, so I'm considering how to adjust the Instructions to stop it from hypothesizing about certain information, like my projects and career. The AI was saying that I had worked on some animated music videos with "big indie bands," which is definitely not true and potentially harmful since it's lying about my career.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-25%20091748.png)
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-25%20091917.png)
+
+I also feel like the AI is being weirdly passive-aggressive in the last message, but I know that it's just trying to emulate my friendly tone LOL. But also like...bruh.
