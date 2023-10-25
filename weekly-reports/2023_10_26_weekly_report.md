@@ -55,3 +55,9 @@ Weirdly, after I uploaded information about my favorite movies, the AI pretty mu
 
 I saved my LinkedIn information to a PDF and uploaded it to ZeroWidth, but it did not do a good job parsing through the information. I had to manually fix a lot of the formatting.
 
+#### Further Customization
+
+I thought that it would be more interesting to change the speech pattern of my assistant bot, so I wrote out a new set of Instructions telling the AI to type in a similar way as I would. I told it a few key phrases/words that I always say as well as the emoticons that I frequently use. I think that it did a pretty good job incorporating them, although it might be overusing the emoticons a little bit. I'll keep on adjusting the Instructions to get it as close to my speech pattern as possible, although that's tough in its own way since I often speak very differently in different contexts to different people.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-25%20090349.png)
+
