@@ -68,3 +68,11 @@ At one point the AI began conjecturing information about me and explicitly told 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-25%20091917.png)
 
 I also feel like the AI is being weirdly passive-aggressive in the last message, but I know that it's just trying to emulate my friendly tone LOL. But also like...bruh.
+
+I want to also customize the AI a little more. I want to create an animated persona and put it in on the side or in an avatar bubble that the AI can speak through. For example, while the AI is typing, the avatar is speaking and it's otherwise in a neutral pose. Maybe it will randomly do a little dance. I emailed Peter to see how I could do this and while it's currently not possible to accomplish in Zero Width, he did say that I could create my own interface and connect it to the API. So I might need to brush up on my web dev skills a little bit to accomplish that. 
+
+### Speculations
+
+There is so much more I want to add and do! My next steps are to polish up interacting with the AI so that it stops saying "swag" so much and is more clear about what projects I have completed, etc. I believe I have instructed it to stop making up information (I directly told it to stop doing that) so that's good, but now I just need to provide it with more updated info and also try to get it to stop impersonating me and instead act as "Babylish" rather than "Aylish."
+
+I also want to figure out how to visually customize it a little more with my own custom interface. Not sure how I'll approach that yet, but I will try to talk to Peter about it some more if he is available.
