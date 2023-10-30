@@ -27,3 +27,7 @@ After manually adding some information about my in-class projects, I asked the A
 The AI is VERY flattering and speaks very highly of my work, which is nice and a bit silly, but I do feel somewhat self-conscious about it. 
 
 When I asked the AI "What are some of the games that Aylish has worked on?" it took a VERY long time to respond. I think that I might need to break up some of the information a little more. I wonder if it's too many information items? It might help to tell it to keep answers fairly short, as well.
+
+I also keep on experiencing occasional AI "hallucinations" where it is making up information despite me directly telling it not to do that. I will try rephrasing my instructions and the order of the text to make it very clear that the AI must not make up any information about me or my projects. It's difficult to balance this because I do want it to generally also represent me, my opinions, interests, etc. on other matters.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20144957.png)
