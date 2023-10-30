@@ -31,3 +31,5 @@ When I asked the AI "What are some of the games that Aylish has worked on?" it t
 I also keep on experiencing occasional AI "hallucinations" where it is making up information despite me directly telling it not to do that. I will try rephrasing my instructions and the order of the text to make it very clear that the AI must not make up any information about me or my projects. It's difficult to balance this because I do want it to generally also represent me, my opinions, interests, etc. on other matters.
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20144957.png)
+
+I did run into the token issue again when I asked the AI: "What movie should I watch tonight? I like comedies." I guess that the best solution is probably to break up the information more or to decrease the Intelligence settings back down to just 1 item. For now, I've changed the Intelligence Knowledge Options from "Naive" to "Agentic" and kept the "Information to pull" at 2. This has fixed the issue (or so it seems) but also seems to have increased the time that it takes for the AI to reply.
