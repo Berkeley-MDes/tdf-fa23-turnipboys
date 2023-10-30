@@ -15,3 +15,11 @@ I also added a new welcome message from the bot. I know that the bot cannot stor
 The AI also overuses a lot of the key phrases I gave it, so I have just been trying to polish up its vocabulary and speech patterns by carefully selecting the wording and instructions that I give it. It's a lot more challenging than I thought it would be and mostly a lot of manual work.
 
 Although I uploaded my weekly reports and hoped that the context would explain itself, I did add a line telling the AI that the following text was from my weekly reports on my class projects. I had to go in and add a lot of new information manually so that the AI could make connections between the different pieces of information, especially about recent projects and classes.
+
+After adding some new information and changing the "Intelligence" settings to pull from more than 1 item in a knowledge set, I encountered a new error warning that I hadn't seen before. It told me: "Context Window Exceeded: Your selected model has a context window of 8192 tokens. You've attempted to use 10111 tokens." I adjusted the setting down to "2" items and this resolved the issue, although I wonder if it will appear again.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20143120.png)
+
+After manually adding some information about my in-class projects, I asked the AI what some of my recent projects were. It takes a while to type out its full answer and often gives very long replies. I wonder if that is just due to the amount of information I provided it or if it has picked that up in my speech pattern information (or some third reason).
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20143745.png)
