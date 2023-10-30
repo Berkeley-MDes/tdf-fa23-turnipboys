@@ -23,3 +23,7 @@ After adding some new information and changing the "Intelligence" settings to pu
 After manually adding some information about my in-class projects, I asked the AI what some of my recent projects were. It takes a while to type out its full answer and often gives very long replies. I wonder if that is just due to the amount of information I provided it or if it has picked that up in my speech pattern information (or some third reason).
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20143745.png)
+
+The AI is VERY flattering and speaks very highly of my work, which is nice and a bit silly, but I do feel somewhat self-conscious about it. 
+
+When I asked the AI "What are some of the games that Aylish has worked on?" it took a VERY long time to respond. I think that I might need to break up some of the information a little more. I wonder if it's too many information items? It might help to tell it to keep answers fairly short, as well.
