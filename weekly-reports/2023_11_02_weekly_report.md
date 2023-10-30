@@ -33,3 +33,7 @@ I also keep on experiencing occasional AI "hallucinations" where it is making up
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20144957.png)
 
 I did run into the token issue again when I asked the AI: "What movie should I watch tonight? I like comedies." I guess that the best solution is probably to break up the information more or to decrease the Intelligence settings back down to just 1 item. For now, I've changed the Intelligence Knowledge Options from "Naive" to "Agentic" and kept the "Information to pull" at 2. This has fixed the issue (or so it seems) but also seems to have increased the time that it takes for the AI to reply.
+
+Something very odd is that the AI made up information about what games I worked on again, but this time said that it CAN'T make up information that's "not present in the data [it] was trained on." So I may need to look at my instructions again to tell it to just not make anything up. However, I wonder if this would negatively affect other aspects of the AI. I also can't help but feel like it's being passive aggressive in this message even though it is literally a robot lol. I almost want to change the speech pattern to something completely different because I feel like it's triggering a negative psychological state LMAO.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20150700.png)
