@@ -37,3 +37,10 @@ I did run into the token issue again when I asked the AI: "What movie should I w
 Something very odd is that the AI made up information about what games I worked on again, but this time said that it CAN'T make up information that's "not present in the data [it] was trained on." So I may need to look at my instructions again to tell it to just not make anything up. However, I wonder if this would negatively affect other aspects of the AI. I also can't help but feel like it's being passive aggressive in this message even though it is literally a robot lol. I almost want to change the speech pattern to something completely different because I feel like it's triggering a negative psychological state LMAO.
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-10-30%20150700.png)
+
+
+#### Learning More About APIs
+
+I have some web dev experience, but I am not super familiar with APIs and these other elements involved in getting the AI working on my personal website. I decided to do a little bit of research into the process.
+
+I read [this tutorial](https://blog.hubspot.com/website/application-programming-interface-api), which was a helpful overview on API basics and gave a helpful example. Jeff also told me about this website called [Postman](https://web.postman.co/workspace/My-Workspace~9d298e14-c522-4c5c-8c33-f74785590b85/collection/30845987-007e93df-7498-4d2d-8d25-a27f8554cfd2) where I can test my API calls before publishing them. They also have a lot of interesting tutorials.
