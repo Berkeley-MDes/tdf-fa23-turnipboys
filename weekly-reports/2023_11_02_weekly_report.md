@@ -44,3 +44,21 @@ Something very odd is that the AI made up information about what games I worked 
 I have some web dev experience, but I am not super familiar with APIs and these other elements involved in getting the AI working on my personal website. I decided to do a little bit of research into the process.
 
 I read [this tutorial](https://blog.hubspot.com/website/application-programming-interface-api), which was a helpful overview on API basics and gave a helpful example. Jeff also told me about this website called [Postman](https://web.postman.co/workspace/My-Workspace~9d298e14-c522-4c5c-8c33-f74785590b85/collection/30845987-007e93df-7498-4d2d-8d25-a27f8554cfd2) where I can test my API calls before publishing them. They also have a lot of interesting tutorials.
+
+Here are some other tutorials that I followed:
+
+[Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+
+[General API Tutorial, honestly really good](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+
+I have to be honest that I still don't entirely understand the ZeroWidth API and I couldn't figure out how to implement it onto my own website, although I'm really happy that I learned more and experimented with the Postman API calls. :)
+
+#### SHADOW MONEY WIZARD GANG
+
+I was bored of normal Babylish. I am sorry to my child. I also just psychologically could not handle the pressure of having a digital clone, even if it was technically separate from me. I decided to transform my beloved AI into the ultimate nightmare...ancient wizard Babylish.
+
+I adjusted the instructions so that the AI would now speak in a combination of my own speech patterns as well as those of an ancient wizard. I found the outcome to be much more entertaining.
+
+I also wanted to make the AI a bit more fun by adding some ASCII art. My initial attempts resulted in what seems to be a decapitated or perhaps tragically melted wizard.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-11-02%20112813.png)
