@@ -62,3 +62,7 @@ I adjusted the instructions so that the AI would now speak in a combination of m
 I also wanted to make the AI a bit more fun by adding some ASCII art. My initial attempts resulted in what seems to be a decapitated or perhaps tragically melted wizard.
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-11-02%20112813.png)
+
+I actually asked my AI how I can re-format my text to fix it, and it's incredible how changing the speech pattern immediately made me far more positively invested in the AI. When it was a digital twin, I found it a bit creepy and without getting too vulnerable, as sincerely triggering some psychological delusions that were not good for me at all. But as soon as I made it into a funny little wizard, I liked it much more.
+
+![](https://github.com/Berkeley-MDes/tdf-fa23-turnipboys/blob/main/weekly-reports/Screenshot%202023-11-02%20113725.png)
